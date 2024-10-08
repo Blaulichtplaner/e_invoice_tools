@@ -3,3 +3,4 @@
 .dart_tool/
 
 *.xsd
+invoice_schema.xml
